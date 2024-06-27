@@ -1,0 +1,19 @@
+aig 31 7 0 2 24
+15
+63
+
+
+
+&
+i0 pi0
+i1 pi1
+i2 pi2
+i3 pi3
+i4 pi4
+i5 pi5
+i6 pi6
+o0 po0
+o1 po1
+c
+This file was written by ABC on Mon Apr 15 15:11:13 2024
+For information about AIGER format, refer to http://fmv.jku.at/aiger
