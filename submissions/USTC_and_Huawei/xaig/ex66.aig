@@ -1,0 +1,24 @@
+aig 28 10 0 5 18
+15
+34
+5
+35
+57
+i0 a
+i1 b
+i2 c
+i3 d
+i4 e
+i5 f
+i6 g
+i7 h
+i8 i
+i9 j
+o0 F0
+o1 F1
+o2 F2
+o3 F3
+o4 F4
+c
+This file was produced by the GIA package in ABC on Mon Apr 29 15:13:12 2024
+For information about AIGER format, refer to http://fmv.jku.at/aiger

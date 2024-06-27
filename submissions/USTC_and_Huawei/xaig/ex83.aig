@@ -1,0 +1,24 @@
+aig 52 11 0 3 41
+14
+105
+6
+	
+
+"2
+"1	8A	&'	0i0 pi00
+i1 pi01
+i2 pi02
+i3 pi03
+i4 pi04
+i5 pi05
+i6 pi06
+i7 pi07
+i8 pi08
+i9 pi09
+i10 pi10
+o0 po0
+o1 po1
+o2 po2
+c
+This file was written by ABC on Wed May 29 20:22:19 2024
+For information about AIGER format, refer to http://fmv.jku.at/aiger
